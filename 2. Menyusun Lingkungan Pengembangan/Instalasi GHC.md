@@ -1,11 +1,11 @@
 # Materi Instalasi GHC dan GHCi
 
 Daftar Isi
-• Pendahuluan
-• Memasang GHC pada Mac OS
-• Memasang GHC pada Linux
-• Memasang GHC pada Windows
-• Kesimpulan
+- Pendahuluan
+- Memasang GHC pada Mac OS
+- Memasang GHC pada Linux
+- Memasang GHC pada Windows
+- Kesimpulan
 
 ## Pengantar
 
