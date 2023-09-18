@@ -54,3 +54,6 @@
 
 16. Buat Proyek Lebih Besar:
     - Setelah memiliki pemahaman yang kuat, coba bangun proyek yang lebih besar dalam Haskell untuk menggabungkan semua konsep yang kamu pelajari.
+
+
+Saya harap kami dapat membantu Anda dengan cara yang tepat.
