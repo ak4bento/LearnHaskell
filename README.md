@@ -2,6 +2,7 @@
 
 Yo, teman-teman coder yang kece! Udah pada dengerin tentang Haskell? Nah, kali ini kita mau ngajak lo semua buat belajar Haskell, dari nol sampe jadi ahli! Siapa yang mau gaspol aja bareng-bareng? Langsung aja kita bahas step by step nya.
 
+
 ### Step 1: Tandem Start, Kawan!
 Jadi, kita mulai dengan semangat dulu. Apa sih yang bikin Haskell menarik? Kita ngomongin filosofi di balik Haskell, dan kenapa ini bisa jadi pilihan keren buat lo.
 
